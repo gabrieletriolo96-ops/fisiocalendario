@@ -26,7 +26,7 @@ ENV required (or hardcode for tests):
 
 Run locally:
   pip install python-telegram-bot==20.7 pytz pyyaml
-  export TELEGRAM_BOT_TOKEN=123:ABC
+  export TELEGRAM_BOT_TOKEN=8469888896:AAExFxTlx2YEKNPZJd20Pn15tEcF54rRbBU
   export PAYMENTS_PROVIDER_TOKEN=284685063:TEST:12345
   python main.py
 
